@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x84132abcc56f1b46a2442af4626e76d83a261e21",
+  "SCAN_LINK": "https://polygonscan.com/token/0x84132abcc56f1b46a2442af4626e76d83a261e21",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BestBullyDogs6KClub",
+  "SYMBOL": "BBD6K",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 18000000000000000000,
+  "DISPLAY_COST": 18,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bestbullydogs6kclub",
+  "SHOW_BACKGROUND": true
+}
